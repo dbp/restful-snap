@@ -87,7 +87,6 @@ import           Snap.Core
 import           Snap.Extras.CoreUtils
 import           Snap.Snaplet
 import           Snap.Snaplet.Heist
-import           System.Locale
 import           Text.Digestive
 
 import qualified Text.XmlHtml                   as X
