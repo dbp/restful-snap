@@ -33,7 +33,6 @@ library
     heist              >= 0.14 && < 0.15,
     lens               >= 3.8  && < 4.14,
     mtl                >= 2.0  && < 2.3,
-    old-locale         >= 1.0  && < 1.1,
     readable           >= 0.1  && < 0.4,
     snap               >= 0.11 && < 0.15,
     snap-core          >= 0.9  && < 0.10,
